@@ -29,7 +29,7 @@ function App() {
 
   });
 
-  if (!loaded) retu null;
+  if (!loaded) return null;
   return (
     <NavigationContainer theme={theme}>
       <Stack.Navigator screenOptions={{ headerShown: false}}
