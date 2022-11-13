@@ -30,7 +30,7 @@ export const CircleButton = ({imgUrl, handlePress,
       onPress={handlePress}
     >
       <Image source={imgUrl}
-        resizeMethod='contain'
+        resizeMode='contain'
         style={{ width: 24, height: 24}}
         
         />
