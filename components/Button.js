@@ -3,11 +3,28 @@ import { Text, View, TouchableOpacity, Image } from 'react-native';
 import { clickProps } from 'react-native-web/dist/cjs/modules/forwardedProps';
 import { COLORS, SIZES, FONTS, SHADOWS } from "../constants";
 
-export const RectButton = () => {
+export const RectButton = ({minWidth, fontSize, handlePress, ...props}) => {
   return (
-    <View>
-      <Text>RectButton</Text>
-    </View>
+    <TouchableOpacity style={{
+      backgroundColor: COLORS.primary,
+      borderRadius: SIZES.extraLarge,
+      minWidth: minWidth,
+      padding: SIZES.small,
+      alignItems: "center",
+      justifyContent: "center",
+      ...props,
+
+      }}
+      onPress={handlePress}
+    >
+     <Text style={{
+      fontFamily: FONTS.semiBold,
+      fontSize: fontSize,
+      color: COLORS.white,
+      textAlign: "center",
+     }}>{"Place a bid"}</Text>
+    </TouchableOpacity>
+    
   )
 }
 
