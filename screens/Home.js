@@ -11,7 +11,7 @@ export const Home = () => {
         <View style={{flex: 1}}>
           <View style={{zIndex: 0}}>
             <FlatList data={NFTData}
-            renderItem={({item}) => <NFTCard item={item} />}
+            renderItem={({item}) => <NFTCard data={item} />}
             keyExtractor={(item) => item.id}
             showsVerticalScrollIndicator={false}
             ListHeaderComponent={<HomeHeader/>} />
