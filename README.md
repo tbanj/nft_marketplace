@@ -25,7 +25,7 @@ This project have 7 major Layouts
 
 #
 
-[<img src="scrs/expo_react_native">](https://expo.dev/accounts/tbanj/projects/tbanj_market/builds/ba875686-f0c9-4428-8c5e-16a610ce406e)
+[<img src="scrs/expo_react_native.png">](https://expo.dev/accounts/tbanj/projects/tbanj_market/builds/ba875686-f0c9-4428-8c5e-16a610ce406e)
 
 # Screenshots
 
