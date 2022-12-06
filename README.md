@@ -23,11 +23,15 @@ This project have 7 major Layouts
 
 [<img src="scrs/google_drive.png">](https://drive.google.com/file/d/1Ea4BVjZRI7NmqzHLlEHtXaS49QUomleO/view?usp=sharing)
 
+#
+
+[<img src="scrs/expo_react_native">](https://expo.dev/accounts/tbanj/projects/tbanj_market/builds/ba875686-f0c9-4428-8c5e-16a610ce406e)
+
 # Screenshots
 
-<img src="scrs/home_activity.png" alt="Menu" width="288" height="512">&nbsp;
-<img src="scrs/number_activity.png" alt="SearchActivity" width="288" height="512">&nbsp;
-<img src="scrs/family_activity.png" alt="DetailActivity" width="288" height="512">&nbsp;
-<img src="scrs/color_activity.png" alt="MoreDetailactivity" width="288" height="512">&nbsp;
+<img src="scrs/01.jpeg" alt="Menu" width="288" height="512">&nbsp;
+<img src="scrs/02.jpeg" alt="SearchActivity" width="288" height="512">&nbsp;
+<img src="scrs/03.jpeg" alt="DetailActivity" width="288" height="512">&nbsp;
+<img src="scrs/04.jpeg" alt="MoreDetailactivity" width="288" height="512">&nbsp;
 
 # Author : Alabi Temitope [<img src="scrs/linkedin-icon.png">](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
