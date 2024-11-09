@@ -19,13 +19,17 @@ This project have 7 major Layouts
 1. Home Layout
 2. Detail Layout
 
+# Click on Google Drive Icon Below to watch demo
+
+[<img src="scrs/google_drive.png">](https://drive.google.com/file/d/1VU9j99h-jHD0mzBaL_8kfAUmIwrrh2qg/view)
+
 # Click on Google Drive Icon Below to download apk
 
-[<img src="scrs/google_drive.png">](https://drive.google.com/file/d/1Ea4BVjZRI7NmqzHLlEHtXaS49QUomleO/view?usp=sharing)
+[<img src="scrs/google_drive.png">](https://drive.google.com/file/d/1VZGHHkiD8i22rzfYdjOP1x63rJYaExVF/view)
 
 # Click on Expo React Native Icon Below to download apk
 
-[<img src="scrs/expo_react_native.png" width="100" height="100">](https://expo.dev/accounts/tbanj/projects/tbanj_market/builds/ba875686-f0c9-4428-8c5e-16a610ce406e)
+[<img src="scrs/expo_react_native.png" width="100" height="100">](https://expo.dev/artifacts/eas/frhrDq6RU56tq4NhNzYFrH.apk)
 
 # Screenshots
 
