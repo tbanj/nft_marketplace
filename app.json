@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tbanj_market",
-    "slug": "tbanj_market",
+    "name": "pronef",
+    "slug": "pronef",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,21 +19,21 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.tbanj.tbanjmarket"
+      "bundleIdentifier": "com.tbanj.pronef"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.tbanj.tbanj_market"
+      "package": "com.tbanj.pronef"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "9a063387-3843-46f7-9f3a-7c3a8ebca139"
+        "projectId": "e1459179-98ec-40de-947e-cf4357efc424"
       }
     }
   }
